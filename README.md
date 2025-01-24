@@ -2,7 +2,8 @@
 Knowledge Assistant App
 An AI-powered app that allows users to upload text or documents and trains a model to answer questions based on the provided input. The app leverages advanced natural language processing (NLP) techniques to deliver accurate and context-aware responses. Built with Django for the backend, React for the frontend, and TensorFlow for training and deploying models, this project is a step towards making information retrieval smarter and more accessible.
 --------------------------------------------------
-#Key Features:
+Key Features:
+---------------
 
 •	Train a lightweight question-answering model on user-provided content.
 
@@ -12,7 +13,8 @@ An AI-powered app that allows users to upload text or documents and trains a mod
 
 ----------------------------------------------------
 
-#Technologies Used:
+Technologies Used:
+-------------------------------
 
 •	Backend: Django
 
